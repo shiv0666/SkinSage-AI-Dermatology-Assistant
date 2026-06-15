@@ -119,6 +119,4 @@ JWT_SECRET=your_secret_key
 - Add tests and deployment support.
 - Add clearer error messages in the UI.
 
-## License
 
-MIT
